@@ -1,0 +1,40 @@
+nav ul{
+  list-style-type: none;
+}
+
+.App{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+}
+.button-container{
+  width: 85%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+.button-container > *{
+  margin: 5%;
+  display: block;
+  width: 40%;
+}
+.tableRow{
+  padding: 5%;
+  margin: 1%;
+}
+.link{
+  text-decoration: none;
+  color: aliceblue;
+
+}
+nav ul li{
+  display: inline-block;
+  padding: 10px;
+}
+form input{
+  padding: 0.5%;
+  margin: 0.5%;
+}
