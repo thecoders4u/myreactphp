@@ -5,7 +5,7 @@
 1. Make sure you have installed NodeJS on your machine so that npm commands
 can be made for ReactJS
 2. Make sure to have a PHP server, (WAMP/XAMP e.t.c) and in there 
-you many then copy the backend folder in there
+you may then copy the backend folder in there
 3. Make sure the path directory to your PHP server is matching 
 in the the SERVER_URL in the Config.Js File
 4. Start your PHP server and return in this directory and 
